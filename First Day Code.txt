@@ -1,0 +1,3 @@
+In the beginning Feb allocated time and effort to learn Git Hub. 
+
+Now the code was a formless void, there was a lot of blank lines over the file, with a curious mind sweeping over the white screen. 
